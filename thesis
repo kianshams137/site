@@ -1,0 +1,121 @@
+<!DOCTYPE HTML>
+<!--
+	Hyperspace by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Master's thesis</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="index.html" class="title">Master's thesis</a>
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="generic.html" class="active">Generic</a></li>
+						<li><a href="elements.html">Elements</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main" class="wrapper">
+						<div class="inner">
+							<h1 class="major">My master's thesis journey</h1>
+							<span class="image fit"><img src="images/pic04.jpg" alt="" /></span>
+							<p>
+    I started the year by taking a course in <strong>ring theory</strong>, which
+    gave me some of the algebraic background I was missing. This turned out to
+    be surprisingly useful: rings are one of the basic ingredients of
+    <strong>algebraic geometry</strong>, and learning some algebraic geometry
+    was in turn essential for understanding <strong>toric geometry</strong>
+    (a subject that became a major part of my thesis).
+</p>
+
+<p>
+    My thesis looked at <strong>topological string theory</strong>, a simplified
+    version of string theory where many of the complicated physical questions
+    become much more manageable mathematically. In particular, I focused on
+    topological strings on a special class of spaces called
+    <strong>toric Calabi–Yau threefolds</strong>.
+</p>
+
+<p>
+    A large part of the project was therefore learning how to describe these
+    spaces geometrically. I used <strong>toric geometry</strong> to turn
+    complicated geometric problems into something that could be studied using
+    combinatorics and algebra. This eventually led to a particularly useful
+    object called the <strong>topological vertex</strong>, which provides a way
+    of calculating quantities in topological string theory by breaking a
+    complicated geometry into simpler pieces.
+</p>
+
+<p>
+    I then used the topological vertex to calculate the
+    <strong>partition function</strong> and free energy of a simple example,
+    and compared the result with two other approaches: a description using
+    <strong>Chern–Simons theory</strong> and a calculation coming from the
+    <strong>B-model</strong> of topological strings. Seeing these apparently
+    different methods give the same answer was one of the most interesting
+    parts of the project.
+</p>
+
+<p>
+    The story becomes even more interesting when we look at what happens near
+    certain special points in the geometry. This led me to the connection
+    between <strong>topological strings and spectral theory</strong>, where
+    geometric information can be encoded in quantum-mechanical operators.
+    I studied how the so-called <strong>mirror curve</strong> of the geometry
+    can be quantised, and looked at a particular spectral quantity. This spectral quantity 
+relates to the free energy of the topological string and is what underlies the Topological String/Spectral
+Theory (TS/ST) correspondence.
+</p>
+
+<p>
+    Finally, I looked at a less well-understood example involving the geometry called local
+    <strong>F<sub>1</sub></strong>. This is the simplest geometry for which a spectral quantity of interest in the TS/ST correspondence is not yet known. 
+Finding that is of great importance in verifying the correspondence. 
+</p>
+
+<p>
+    <strong>In short:</strong> the project took me from ring theory and
+    algebraic geometry, through toric geometry, and eventually into topological
+    strings, mirror symmetry and spectral theory. It taught me plenty of abstract mathematics useful in theoretical physics and above all motivated me to learn more.
+</p> 
+My thesis can be found <a href="https://scripties.uba.uva.nl/search?id=record_58323" target="_blank" rel="noopener noreferrer"> here</a>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer" class="wrapper alt">
+				<div class="inner">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
