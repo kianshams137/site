@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #312450;
+		background: #0b191c;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2356,7 +2356,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #312450;
+			background: #0b191c;
 		}
 
 		select:focus::-ms-value {
@@ -3531,7 +3531,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #0b191c;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3768,7 +3768,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #0b191c;
 			}
 
 			#sidebar nav a:after {
@@ -3864,7 +3864,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #19383d;
+							background-color: #0b191c;
 						}
 
 		}
