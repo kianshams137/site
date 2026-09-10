@@ -3239,7 +3239,7 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #261c3e;
+			background-color: #1e4B52;
 		}
 
 		.wrapper.style1 {
@@ -3377,7 +3377,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #5e42a6;
+		background-color: #1e4B52;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3864,7 +3864,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #19383d;
 						}
 
 		}
