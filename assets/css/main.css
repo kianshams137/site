@@ -2554,6 +2554,9 @@ input, select, textarea {
 				.wrapper.style3 .icon.major:before {
 					color: #b74e91;
 				}
+				.wrapper.style4 .icon.major:before {
+					color: #4299a6;
+				}
 
 				.wrapper.style3-alt .icon.major:before {
 					color: #953d75;
@@ -3258,6 +3261,10 @@ input, select, textarea {
 		.wrapper.style3 {
 			background-color: #b74e91;
 		}
+		.wrapper.style4 {
+			background-color: #4299a6;
+		}
+
 
 		.wrapper.style3-alt {
 			background-color: #953d75;
